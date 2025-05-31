@@ -1,16 +1,28 @@
-## Hi there 👋
+# Charith Raju
 
-<!--
-**r9c/r9c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student | Security-focused dev | Python • C++ • Networking • Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a computer science student with a strong focus on cybersecurity and networking. Currently building `r9c-vpn`, a custom VPN written in Python using sockets and encryption.
+Interested in low-level security, experimenting with building tools from scratch, and understanding how systems truly work.
+
+---
+
+## 🔧 Skills & Tools
+
+- **Languages:** Python, C++, Java, MIPS Assembly
+- **Tools:** Linux, Wireshark, Metasploit, SIEM, SQL
+- **Topics:** Cybersecurity, Networking, VPNs, Event Analysis, Machine Learning Foundations
+
+---
+
+## 🧠 Current Projects
+- **[r9c-vpn](https://github.com/r9c/r9c-vpn)** — Experimental lightweight VPN with encrypted tunnel communication (WIP)
+
+---
+
+## 📬 Connect
+- Open to internship opportunities in security, systems, networking, or backend development
+- Based in Texas | [github.com/r9c](https://github.com/r9c)
