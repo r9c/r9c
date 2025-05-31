@@ -5,7 +5,7 @@ Computer Science student | Security-focused dev | Python • C++ • Networking 
 ---
 
 ## 🚀 About Me
-I am a computer science student with a strong focus on cybersecurity and networking. Currently building `r9c-vpn`, a custom VPN written in Python using sockets and encryption.
+Computer science student with a strong focus on cybersecurity and networking. Currently building `r9c-vpn`, a custom VPN written in Python using sockets and encryption.
 Interested in low-level security, experimenting with building tools from scratch, and understanding how systems truly work.
 
 ---
