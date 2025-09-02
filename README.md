@@ -9,7 +9,7 @@ Interested in security, and curently enjoy building decentralized applications.
 ## Current Projects
 - Zan32: secure peer-to-peer messaging
 - Self-hosted lab: Proxmox, coturn, monitoring
-- 
+  
 ## Contact Me
 - Website: [r9c.dev](https://r9c.dev)  
 - Twitter: [@ch9rith](https://twitter.com/ch9rith)  
